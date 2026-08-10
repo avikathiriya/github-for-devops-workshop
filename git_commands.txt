@@ -1,0 +1,9 @@
+1. Git Basics (Must Know)
+What is Git?
+Difference between Git and GitHub
+Git architecture (Working Directory, Staging Area, Local Repository, Remote Repository)
+
+Install and configure Git
+
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
