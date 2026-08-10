@@ -6,4 +6,5 @@ Git architecture (Working Directory, Staging Area, Local Repository, Remote Repo
 Install and configure Git
 
 git config --global user.name "Your Name"
-git config --global user.email "you@example.com"
+git config --global user.email "you@example.com
+
